@@ -1,0 +1,15 @@
+https://github.com/settings/emails
+
+Your primary GitHub email address will be used for account-related notifications (e.g. account changes and billing receipts) as well as any web-based GitHub operations (e.g. edits and merges).
+
+mgraziano@ncc.commnet.edu Primary Private 
+Add email address
+  Add
+ Keep my email address private
+We will use mjg257212@users.noreply.github.com when performing web-based Git operations and sending email on your behalf. If you want command line Git operations to use your private email you must set your email in Git.
+
+https://github.com/blog/1276-welcome-to-a-new-gist
+
+https://github.com/
+
+https://help.github.com/articles/set-up-git/
